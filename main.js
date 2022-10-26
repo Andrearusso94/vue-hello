@@ -8,6 +8,7 @@ createApp({
     data() {
         return{
            title: 'Ciao a tutti',
+           url: 'https://picsum.photos/200/300'
         }
     }
 }).mount('#app')
